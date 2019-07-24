@@ -11,6 +11,7 @@ public class TektutorHellorestApiApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		assertTrue ( false );
 	}
 
 }
